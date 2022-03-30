@@ -1,1 +1,13 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+h1 {
+  color: red;
+  margin: auto;
+}
+
+h2 {
+  color: yellow;
+}
+
+p {
+  color: blue;
+}
+/*# sourceMappingURL=style.css.map */
