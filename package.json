@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/1AwA995/nauka-gita/issues"
   },
-  "homepage": "https://github.com/1AwA995/nauka-gita#readme"
+  "homepage": "https://github.com/1AwA995/nauka-gita#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.9"
+  }
 }
